@@ -1,6 +1,6 @@
 # [Firmware][ergodox-firmware] for the [ErgoDox keyboard][]
 
-The official website is [ergodox.org] (http://www.ergodox.org).  
+The official website is [ergodox.io] (http://www.ergodox.io).  
 Also see the [geekhack]
 (http://geekhack.org/showthread.php?22780-Interest-Check-Custom-split-ergo-keyboard)
 and [deskthority]
@@ -37,6 +37,8 @@ changed since this document was last properly updated:
 * Jacob McIntosh ([nacitar](https://github.com/nacitar)) implemented 4 more
   media keys (stop, mute, vol_up, and vol_down) in rev-1, fixed a media key
   bug, and implemented workman-p.
+* Jacob McIntosh ([nacitar](https://github.com/nacitar)) added
+  `kbfun_layer_toggle` functions.
 
 
 
